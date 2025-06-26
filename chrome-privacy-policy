@@ -1,0 +1,39 @@
+# Privacy Policy
+
+**Effective Date:** June 26, 2025  
+**Extension Name:** Shadcn Theme Switcher
+
+## Overview
+
+Shadcn Theme Switcher is a Chrome extension that allows users to preview and apply Shadcn UI themes live on supported websites. We respect your privacy and are committed to protecting any information that may be collected or stored during usage.
+
+## Information We Collect
+
+We do **not** collect any personally identifiable information. The extension only uses Chrome's local storage to save theme preferences **locally on your device**.
+
+### Specifically:
+- The extension saves your selected theme per website using Chrome’s `storage` API.
+- No data is transmitted to any remote server.
+- We do not use analytics, tracking scripts, or cookies.
+
+## Permissions Explained
+
+- **activeTab**: Used to detect which site you're currently on to store theme preferences per site.
+- **scripting**: Used to apply the selected theme by injecting CSS styling into the current page.
+- **storage**: Used to save your selected theme so it can be re-applied when you revisit the same site.
+- **host permissions**: Used to allow styling updates on supported sites via user-triggered actions only.
+
+## Data Sharing
+
+We do **not** sell, trade, or share any data. Since all data is stored locally on your device and not transmitted anywhere, your usage remains private and isolated.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on the Chrome Web Store listing or made available via the extension's support page.
+
+## Contact
+
+If you have any questions about this Privacy Policy or the extension, you can contact us at:  
+**[pinakfaldu3748@gmail.com]** (replace with your real support contact)
+
+_Last updated: June 26, 2025_
